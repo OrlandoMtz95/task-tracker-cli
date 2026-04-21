@@ -1,9 +1,9 @@
-📝 Task Tracker CLI
+Task Tracker CLI
 
 A simple Command Line Interface (CLI) application built with Python to
 manage tasks.
 
-🚀 Features
+Features
 
 -   Add tasks
 -   Update tasks
@@ -15,18 +15,19 @@ manage tasks.
     -   in-progress
     -   done
     -   not-done
+    
 
-🧠 Technologies Used
+Technologies Used
 
 -   Python
 -   JSON (for data storage)
 
-📦 Installation
+Installation
 
     git clone https://github.com/OrlandoMtz95/task-tracker-cli.git
     cd task-tracker-cli
 
-▶️ Usage
+Usage
 
 Add a task
 
@@ -56,12 +57,12 @@ Mark task
     python app.py mark-done 1
     python app.py mark-in-progress 1
 
-📁 Project Structure
+Project Structure
 
     app.py
     tasks.json (ignored)
 
-🎯 Purpose
+Purpose
 
 This project was built to practice backend fundamentals such as:
 
@@ -70,6 +71,6 @@ This project was built to practice backend fundamentals such as:
 -   CRUD operations
 -   Data persistence
 
-👨‍💻 Author
+Author
 
 Orlando Martinez
